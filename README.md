@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayushpatwal011/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ayushpatwal011/Leetcode/tree/master/0257-binary-tree-paths) |
 ## String
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushpatwal011/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ayushpatwal011/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ayushpatwal011/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
