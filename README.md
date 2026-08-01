@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ayushpatwal011/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0494-target-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0494-target-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ayushpatwal011/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
