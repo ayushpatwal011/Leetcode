@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ayushpatwal011/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/ayushpatwal011/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ayushpatwal011/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0494-target-sum) |
 ## String
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ayushpatwal011/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/ayushpatwal011/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
