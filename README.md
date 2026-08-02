@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ayushpatwal011/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ayushpatwal011/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ayushpatwal011/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0090-subsets-ii) |
