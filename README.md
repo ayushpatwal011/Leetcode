@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ayushpatwal011/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushpatwal011/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ayushpatwal011/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayushpatwal011/Leetcode/tree/master/0110-balanced-binary-tree) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ayushpatwal011/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ayushpatwal011/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ayushpatwal011/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/ayushpatwal011/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ayushpatwal011/Leetcode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushpatwal011/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushpatwal011/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ayushpatwal011/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ayushpatwal011/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ayushpatwal011/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ayushpatwal011/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0494-target-sum) |
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ayushpatwal011/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ayushpatwal011/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
