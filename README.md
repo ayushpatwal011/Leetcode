@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushpatwal011/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushpatwal011/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/ayushpatwal011/Leetcode/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushpatwal011/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushpatwal011/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushpatwal011/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushpatwal011/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/ayushpatwal011/Leetcode/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ayushpatwal011/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ayushpatwal011/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/ayushpatwal011/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/ayushpatwal011/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
@@ -146,4 +149,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ayushpatwal011/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/ayushpatwal011/Leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ayushpatwal011/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
