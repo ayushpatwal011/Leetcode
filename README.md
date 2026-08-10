@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushpatwal011/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/ayushpatwal011/Leetcode/tree/master/0200-number-of-islands) |
+| [1162-as-far-from-land-as-possible](https://github.com/ayushpatwal011/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0494-target-sum) |
+| [1162-as-far-from-land-as-possible](https://github.com/ayushpatwal011/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayushpatwal011/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/ayushpatwal011/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0494-target-sum) |
+| [1162-as-far-from-land-as-possible](https://github.com/ayushpatwal011/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/ayushpatwal011/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ayushpatwal011/Leetcode/tree/master/0200-number-of-islands) |
+| [1162-as-far-from-land-as-possible](https://github.com/ayushpatwal011/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 ## Union-Find
 |  |
 | ------- |
