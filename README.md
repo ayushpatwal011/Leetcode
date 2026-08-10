@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/ayushpatwal011/Leetcode/tree/master/0200-number-of-islands) |
 | [1162-as-far-from-land-as-possible](https://github.com/ayushpatwal011/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1765-map-of-highest-peak](https://github.com/ayushpatwal011/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Backtracking
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/ayushpatwal011/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0494-target-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/ayushpatwal011/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1765-map-of-highest-peak](https://github.com/ayushpatwal011/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ayushpatwal011/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ayushpatwal011/Leetcode/tree/master/0200-number-of-islands) |
 | [1162-as-far-from-land-as-possible](https://github.com/ayushpatwal011/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1765-map-of-highest-peak](https://github.com/ayushpatwal011/Leetcode/tree/master/1765-map-of-highest-peak) |
 ## Union-Find
 |  |
 | ------- |
