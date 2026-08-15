@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushpatwal011/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushpatwal011/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushpatwal011/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/ayushpatwal011/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0437-path-sum-iii](https://github.com/ayushpatwal011/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushpatwal011/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushpatwal011/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushpatwal011/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/ayushpatwal011/Leetcode/tree/master/0200-number-of-islands) |
+| [0310-minimum-height-trees](https://github.com/ayushpatwal011/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushpatwal011/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1162-as-far-from-land-as-possible](https://github.com/ayushpatwal011/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1765-map-of-highest-peak](https://github.com/ayushpatwal011/Leetcode/tree/master/1765-map-of-highest-peak) |
@@ -170,10 +172,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/ayushpatwal011/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushpatwal011/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushpatwal011/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushpatwal011/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/ayushpatwal011/Leetcode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
