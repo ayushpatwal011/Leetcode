@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/ayushpatwal011/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0437-path-sum-iii](https://github.com/ayushpatwal011/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushpatwal011/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/ayushpatwal011/Leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushpatwal011/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushpatwal011/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayushpatwal011/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/ayushpatwal011/Leetcode/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/ayushpatwal011/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0743-network-delay-time](https://github.com/ayushpatwal011/Leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushpatwal011/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1162-as-far-from-land-as-possible](https://github.com/ayushpatwal011/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1765-map-of-highest-peak](https://github.com/ayushpatwal011/Leetcode/tree/master/1765-map-of-highest-peak) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/ayushpatwal011/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0743-network-delay-time](https://github.com/ayushpatwal011/Leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushpatwal011/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushpatwal011/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
@@ -183,4 +186,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/ayushpatwal011/Leetcode/tree/master/0310-minimum-height-trees) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ayushpatwal011/Leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ayushpatwal011/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ayushpatwal011/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
