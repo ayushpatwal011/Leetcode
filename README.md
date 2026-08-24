@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayushpatwal011/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushpatwal011/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/ayushpatwal011/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Linked List
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ayushpatwal011/Leetcode/tree/master/0494-target-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/ayushpatwal011/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1765-map-of-highest-peak](https://github.com/ayushpatwal011/Leetcode/tree/master/1765-map-of-highest-peak) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/ayushpatwal011/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -198,4 +200,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ayushpatwal011/Leetcode/tree/master/0743-network-delay-time) |
+## Two Pointers
+|  |
+| ------- |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/ayushpatwal011/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+## Greedy
+|  |
+| ------- |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/ayushpatwal011/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+## Sorting
+|  |
+| ------- |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/ayushpatwal011/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 <!---LeetCode Topics End-->
